@@ -2,3 +2,4 @@ build
 .gradle
 .idea
 target
+/src/main/resources/secure-connect.zip
